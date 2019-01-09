@@ -9,7 +9,7 @@ main()
     cin<<x2;
     Output=(x1*w1)+(x2*w2);
     if(Output>=2)
-        cout<<"Output(Y)OR=1"<<endl;
+        cout<<"Output(Y)AND=1"<<endl;
     else
-        cout<<"Output(Y)OR=0"<<endl;
+        cout<<"Output(Y)AND=0"<<endl;
 }
